@@ -1,0 +1,7 @@
+data/*
+untitled.txt
+collection-master/*
+*.pickle
+test.db
+Untitled*
+.ipynb_checkpoints/
