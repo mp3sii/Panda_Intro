@@ -6,3 +6,6 @@ test.db
 Untitled*
 .ipynb_checkpoints/
 *.xslx
+*.png
+.idea/*
+*.csv
